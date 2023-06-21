@@ -1,0 +1,1 @@
+This folder contains homeworks of algorithms course of university. Not all of the code are written by me. Only the algorithms are written by me. Other parts such as input taking etc. are generated for the students.
